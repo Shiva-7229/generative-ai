@@ -1,0 +1,103 @@
+            ***Artificial Intelligence***
+                    Module - 1
+    Lesson - 1
+        Introduction to Artificial Intelligence
+
+Contents:
+    Overview:
+        What is AI?
+        History of AI
+        Applications of AI
+        Future of AI
+        Complications of AI
+        
+What is AI?
+    The power of a machine to copy Intelligent Human Behaviour
+
+Types of AI 
+    1. Narrow Intelligence
+    2. General Intelligence
+    3. Super Intelligence
+
+Narrow Intelligence:
+    Artificial Narrow Intelligence (ANI) is AI that specializes in one area. It is machine Intelligence that equals 
+    or exceeds Human Intelligence or efficiency but in one specific area. Smartphone apps, Spam filters, google
+    translate and google search are all examples of ANI.
+
+General Intelligence:
+    Artificial General Intelligence refers to a computer that is as smart as a human across the board and that can 
+    perform any intellectual task that a human being can do.
+
+Super Intelligence:
+    Artificial Super Intelligence is an intellect that is much smarter than the best human brains in practically
+    every field, including scientific field, general wisdom and social skills.
+
+Artificial Intelligence vs Machine Learning vs Deep Learning
+    AI ==> Artificial Intelligence is the ability of a computer to perform tasks commonly associated with
+    Intelligent beings. (John McCarthy - 1956)
+
+    ML ==> Machine Learning is the study of algorithms that learn from examples and experiences instead of relying
+    on hard-coded rules and make predictions on new data. (Arthur Samuel - 1959)
+
+    DL ==> Deep Learning is a subfield of Machine Learning focusing on Learning data representations as 
+    successive layers of increasingly meaningfull representations.
+
+    "Traditional Machine Learning"
+    cat.jpg ---> hand crafted features ------------------> learned classifier ---> cat
+
+    Deep "end - to - end" Learning:
+                learned       learned       learned
+    cat.jpg --> low-level --> mid-level --> high-level --> learned classifier --> cat
+                features      features      features
+
+Milestones of AI
+    1936 --> Turing Machine
+    1956 --> The History begins: The term "AI" is coined
+    1966 --> Birth of the first chatbot
+    1972 --> AI enters the Medical field
+    1986 --> "NETtalk" program speaks
+    1997 --> Computer beats world chess champion
+    2011 --> AI enters everyday life
+    2018 --> AI debates space travel
+    20xx --> The near future is Intelligent
+
+    --> Eblue --> first AI --> developed by IBM
+
+Steps of AI
+    1. Reasoning
+    2. Semantic Content
+    3. Knowledge mapping
+    4. Language 
+    5. Perception
+    6. Narrow AI
+    7. General AI
+    8. Strong AI
+
+The Turing Test
+    1950 --> Alan Turing devised a test for Intelligence called the Imitation Game.
+
+    Examples of AI:
+        1. Autonomous cars 
+        2. Chat bot
+        3. Drones
+        4. Human vs Computer Game
+        5. Robot
+
+Advantages of AI
+    The most important purpose of AI is to reduse human casualities in 
+        --> Wars
+        --> Dangerous Workspaces
+        --> Car Accidents
+        --> Natural Disasters
+            or to make everyday life easier by helping with tasks such as:
+                --> Cleaning
+                --> Shopping
+                --> Transportation
+
+DisAdvantages of AI
+    --> Increased costs
+    --> Difficult with software development slow and expensive
+    --> Few experienced programmers
+    --> Few practical products have reached the market as yet
+
+            *** End ***

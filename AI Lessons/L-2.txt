@@ -1,0 +1,51 @@
+            ***Artificial Intelligence***
+                    Module - 1
+    Lesson - 1
+        Applications and Examples of Artificial
+
+AI and its Subfields
+                                        Artificial Intelligen
+        _________________________________________|___________________________________________________________
+       |                        |                       |                  |             |        |         |
+ Machine Learning  Natural Language Processing    Expert Systems   Speech Recognition  Vision  Robotics  Planning
+       |                        |                                     ______|            |
+ Deep Learning                  |                              _______|_____       ______|______ 
+   _____________________________|____________________          |           |       |           |     
+   |               |         |            |         |         Speech      Text   Machine     Image
+ Text          Question   Content      Classi-   Machine        to         to     Vision    Recognition
+ Generation   Answering   Extraction   fication  Translation   Text      Speech
+
+Applications:
+    1. Face Recognition
+        --> Face Detection
+        --> Feature Extraction
+        --> System Training
+        --> Classification
+    2. Eyeball Detection and Tracking
+        --> Detecting Eyes on the Face
+    3. Object Detection and Tracking 
+        --> RCNN 
+    4. Medicine
+        --> Image Guided Surgery
+        --> Image analysis and Enhancement
+    5. Fruit, Flower and Car Counting
+        --> It work on top of object Detection
+        --> Camera should be moving and object should be fixed
+        --> It works with the horizontal and vertical axis
+        --> Can be extended to count the cars in the parking lot, traffic flow on any signal for the traffic
+            management, people count to find the footfall in the shopping mall etc.
+    6. Games
+    7. Robotics Interaction
+    8. Other Application areas
+        > Bio Informatics
+            --> Gene expression data analysis
+            --> Prediction of protein structure
+        > Text classification, document sorting
+            --> Web pages, E-mails
+            --> Articles in the news
+        > Video, Image Classification
+        > Music, COmposition, Picture Drawing
+        > Natural Language Processing
+        > Perception
+
+            *** End ***
